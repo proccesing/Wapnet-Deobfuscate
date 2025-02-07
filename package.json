@@ -1,0 +1,25 @@
+{
+  "name": "wapnedbot_replica",
+  "version": "1.0.0",
+  "description": "replitk by zenxCorp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "brzzl$zenx",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/generator": "^7.26.5",
+    "@babel/parser": "^7.26.7",
+    "@babel/traverse": "^7.26.7",
+    "chalk": "^4.1.2",
+    "deobfuscator": "^2.4.5",
+    "discord.js": "^14.16.3",
+    "gradient-string": "^1.2.0",
+    "javascript-deobfuscator": "^1.0.3",
+    "js-beautify": "^1.15.1",
+    "node-fetch": "^2.6.7",
+    "tinygradient": "^1.1.5",
+    "wapnedbot_replica": "file:"
+  }
+}
